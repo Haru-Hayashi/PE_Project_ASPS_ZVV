@@ -1,0 +1,141 @@
+average_time 11f03a28 FLOAT 1
+confirm 11f03940 UCHAR 20 2
+confirm_number 11f03938 UCHAR 20 2
+data_dac 11f03a60 FLOAT 20 8
+data_offset 11f03600 FLOAT 20 8
+data_offset_tmp 11f035e0 FLOAT 20 8
+delta 11f039b4 FLOAT 1
+du 11f03904 INT 3
+dv 11f03908 INT 3
+dw 11f0390c INT 3
+dwt 11f03a50 FLOAT 1
+ENC_data 11f03798 FLOAT 20 2
+ENC_delta 11f037a0 INT 3
+err_inte1 11f03954 FLOAT 1
+err_inte2 11f03958 FLOAT 1
+f_ref 11f03a48 FLOAT 1
+Flag_inte_out_zero 11f03974 UCHAR 12
+Flag_omegaControl 11f03975 UCHAR 12
+Flag_TableRead 11f03948 UCHAR 20 2
+Flag_Vdc_command 11f037c0 UCHAR 12
+Flag_zero 11f03942 UCHAR 12
+Hysteresis_Band 11f03a10 FLOAT 1
+i 11f03a88 INT 3
+ia_res 11f037c4 FLOAT 1
+ib_res 11f037c8 FLOAT 1
+id_res 11f037d4 FLOAT 1
+inte_out 11f03968 FLOAT 1
+iq_res 11f037d8 FLOAT 1
+is_write_complete 11f03936 UCHAR 12
+iu_res 11f03774 FLOAT 1
+iu_set 11f037a4 FLOAT 1
+iv_res 11f03778 FLOAT 1
+iv_set 11f037a8 FLOAT 1
+iw_res 11f0377c FLOAT 1
+iw_set 11f037ac FLOAT 1
+j 11f03a8c INT 3
+Kis 11f03950 FLOAT 1
+Kps 11f0394c FLOAT 1
+Kvf 11f03a54 FLOAT 1
+limit_value 11f03960 FLOAT 1
+mod 11f03a44 FLOAT 1
+n 11f03a90 INT 3
+nrm_vi 11f039ac FLOAT 1
+nrm_vi_ref 11f039b0 FLOAT 1
+numLines 11f038f2 UCHAR 12
+offset_count 11f037b8 INT 3
+offset_time 11f037bc FLOAT 1
+omega_data 11f03620 FLOAT 20 2
+omega_err 11f0396c FLOAT 1
+omega_err_lf 11f03970 FLOAT 1
+omega_load_ref 11f03a80 FLOAT 1
+omega_ref 11f03a58 FLOAT 1
+out_swp 11f03934 UCHAR 12
+p2_theta 11f0397c FLOAT 1
+Perr_a 11f03748 FLOAT 1
+Perr_b 11f03a08 FLOAT 1
+Perr_nrm 11f03a0c FLOAT 1
+phi_2d 11f03978 FLOAT 1
+Pout_a 11f039fc FLOAT 1
+Pout_b 11f03a00 FLOAT 1
+Pref_a 11f03744 FLOAT 1
+Pref_b 11f03a04 FLOAT 1
+prop_out 11f03964 FLOAT 1
+sf_ave 11f03a30 FLOAT 1
+SF_average 11f03a34 FLOAT 1
+sf_Counter 11f03a2c INT 3
+sf_u_ave 11f03a18 FLOAT 1
+sf_v_ave 11f03a1c FLOAT 1
+sf_w_ave 11f03a20 FLOAT 1
+Slot_Num 11f038f3 UCHAR 12
+t_res 11f03784 FLOAT 1
+t_res_lpf 11f03788 FLOAT 1
+t_set 11f037b0 FLOAT 1
+Table_num 11f038f4 UCHAR 12
+Tact 11f03768 FLOAT 20 3
+Tact_ctrl 11f03300 FLOAT 1
+tau_load_ref 11f03a84 FLOAT 1
+Tc 11f03910 FLOAT 1
+theta_err 11f039b8 FLOAT 1
+theta_phi_s 11f03730 FLOAT 20 2
+theta_rep 11f039a8 FLOAT 1
+u 11f038f8 INT 3
+u_sa 11f03980 FLOAT 20 2
+u_sa_ref 11f03990 FLOAT 20 2
+u_sb 11f03988 FLOAT 20 2
+u_sb_ref 11f03998 FLOAT 20 2
+U_tr 11f03750 UCHAR 20 2
+uvw_sw 11f03a24 FLOAT 1
+v 11f038fc INT 3
+V_limit 11f03790 FLOAT 1
+V_tr 11f03758 UCHAR 20 2
+Va_last 11f03914 FLOAT 1
+va_res 11f037cc FLOAT 1
+Vb_last 11f03918 FLOAT 1
+vb_res 11f037d0 FLOAT 1
+vd_res 11f037dc FLOAT 1
+Vdc 11f03780 FLOAT 1
+Vdc_command 11f0378c FLOAT 1
+Vdc_set 11f037b4 FLOAT 1
+Vector_Number 11f038f6 UCHAR 12
+Vector_Times 11f038f5 UCHAR 12
+Vest_a 11f039f4 FLOAT 1
+Vest_b 11f039f8 FLOAT 1
+vq_res 11f037e0 FLOAT 1
+Vref_a 11f03a3c FLOAT 1
+Vref_b 11f03a40 FLOAT 1
+Vref_nrm 11f03a38 FLOAT 1
+Vtheta 11f03a14 FLOAT 1
+Vtheta_out 11f039bc FLOAT 1
+Vtheta_ref 11f039c0 FLOAT 1
+Vu 11f03738 FLOAT 1
+Vu_inv 11f039c4 FLOAT 1
+Vu_last 11f0391c FLOAT 1
+Vu_ref 11f039dc FLOAT 1
+Vun_last 11f03928 FLOAT 1
+Vun_ref 11f039e8 FLOAT 1
+Vuv 11f039d4 FLOAT 1
+Vv 11f0373c FLOAT 1
+Vv_inv 11f039c8 FLOAT 1
+Vv_last 11f03920 FLOAT 1
+Vv_ref 11f039e0 FLOAT 1
+Vvn_last 11f0392c FLOAT 1
+Vvn_ref 11f039ec FLOAT 1
+Vvw 11f039d8 FLOAT 1
+Vw 11f03740 FLOAT 1
+Vw_inv 11f039cc FLOAT 1
+Vw_last 11f03924 FLOAT 1
+Vw_ref 11f039e4 FLOAT 1
+Vwn_last 11f03930 FLOAT 1
+Vwn_ref 11f039f0 FLOAT 1
+Vwu 11f039d0 FLOAT 1
+w 11f03900 INT 3
+w_lpf 11f039a4 FLOAT 1
+w_q 11f039a0 FLOAT 1
+W_tr 11f03760 UCHAR 20 2
+wre 11f037e4 FLOAT 1
+write_step 11f03935 UCHAR 12
+wrm 11f037e8 FLOAT 1
+wrm_filter 11f037ec FLOAT 1
+wrm_ref 11f0395c FLOAT 1
+wt 11f03a4c FLOAT 1
